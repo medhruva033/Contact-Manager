@@ -10,7 +10,7 @@ Implements core Data Structures concepts like arrays and strings.
 - Search Contact
 - Delete Contact
 
-## Concepts Used
+##  Concepts Used
 - Arrays
 - Structures
 - Strings
